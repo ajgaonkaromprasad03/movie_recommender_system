@@ -36,6 +36,11 @@ A content-based Movie Recommender System built using **Streamlit**, **Python**, 
 
 👉 [Click here to try the app](https://movie-recommender-system-apl9.onrender.com/)  
 
+## 📸 Demo Screenshot
+
+![App Preview](assets/screenshot.png)
+
+
 ## 🔑 API Setup
 
 This project uses TMDB API to fetch posters. You'll need a TMDB API Bearer Token.
