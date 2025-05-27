@@ -1,5 +1,8 @@
 # 🎬 Movie Recommender System
 
+![App Preview](image.png)
+
+
 A content-based Movie Recommender System built using **Streamlit**, **Python**, and **TMDB API** that suggests similar movies based on user input.
 
 ## 🚀 Features
@@ -35,10 +38,6 @@ A content-based Movie Recommender System built using **Streamlit**, **Python**, 
 ## 🔗 Live Demo
 
 👉 [Click here to try the app](https://movie-recommender-system-apl9.onrender.com/)  
-
-## 📸 Demo Screenshot
-
-![App Preview](image.png)
 
 
 ## 🔑 API Setup
