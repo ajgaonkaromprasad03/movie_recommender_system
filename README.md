@@ -38,7 +38,7 @@ A content-based Movie Recommender System built using **Streamlit**, **Python**, 
 
 ## 📸 Demo Screenshot
 
-![App Preview](assets/screenshot.png)
+![App Preview](image.png)
 
 
 ## 🔑 API Setup
